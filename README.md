@@ -1,0 +1,4 @@
+# Discord Music Bot
+
+## Setup
+

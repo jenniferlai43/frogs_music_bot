@@ -1,0 +1,23 @@
+{
+  "name": "frogs_music_bot",
+  "version": "1.0.0",
+  "description": "music bot for discord server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jenniferlai43/frogs_music_bot.git"
+  },
+  "author": "jennifer lai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jenniferlai43/frogs_music_bot/issues"
+  },
+  "homepage": "https://github.com/jenniferlai43/frogs_music_bot#readme",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "dotenv": "^8.2.0"
+  }
+}
